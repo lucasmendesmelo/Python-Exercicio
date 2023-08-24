@@ -1,5 +1,5 @@
 
-# 💻 Desafio para treinar a sua logica de Programação  🧑‍💻
+# 💻 Desafio para treinar a sua logica de Programação 🧑‍💻
 
 
 # Siga as instruções a baixo.
